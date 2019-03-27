@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="fundamentals" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fundamentals" uploadOnCheckin="5f3033ec-ecbd-4010-acf5-77d04b1bdbf5" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
     <serverData>
       <paths name="fundamentals">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="fundamentals" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5f3033ec-ecbd-4010-acf5-77d04b1bdbf5" name="fundamentals" url="https://bootcamp-coders.cnm.edu">
+      <webServer id="5f3033ec-ecbd-4010-acf5-77d04b1bdbf5" name="fundamentals" url="https://bootcamp-coders.cnm.edu/~tgray19/fundamentals">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/tgray19/public_html/fundamentals" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
